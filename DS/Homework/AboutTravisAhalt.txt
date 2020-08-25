@@ -1,0 +1,4 @@
+Travis Ahalt
+I am learning Data Science through Tech Talent South, having already completed an introductory code immersion course. I enjoy learning in all forms, whether it is learning a new language, or designing furniture or floorplans to impliment and build.
+I wish to incorporate data science into my life because I find it interesting, but I also wish to pursue it as a career. I went to UNC-Chapel Hill for my undergrad in Mathematics due to enjoying the beauty of mathematics in its broad impact in our everyday lives.
+Now I want to combine my love for mathematics with my interest in teaching and learning in order to tell meaningful stories in clear and succinct ways using data science.
