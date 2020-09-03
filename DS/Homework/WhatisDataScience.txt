@@ -1,0 +1,3 @@
+Data Science is the act of taking information and interpreting trends within the information, then finding clear and concise ways to communicate a story with the information or data provided. To be a data scientist is to be a story teller, taking complex amounts of information, and utilizing computation to interpret and better understand that information with the intent of communicating trends and important information ethically to others in a way that they can understand and build upon. 
+
+Simply put, Data Science is process of information being collected and then fed into the conflux of relevant knowledge applied using scientific methods, mathematical interpretation, and machine learning; all turned into a clearly communicated story for all to understand.
